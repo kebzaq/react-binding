@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #d1dfae;
+  border-radius: 20px;
+}
+.container {
+  margin-top: 50px;
+  height: 200px;
+  width: 90%;
+  background-color: orange;
+  border-radius: 20px;
+}
+input {
+  margin-top: 50px;
+  width: 400px;
+  size: 500px;
+}
+#output {
+  margin-top: 30px;
+}
+footer {
+  margin: 20px auto;
+}
